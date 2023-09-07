@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jaswant Singh</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<h3 align="center" >Skills: REDUX / REACT / JS / HTML / CSS / EXPRESS / MONGODB</h3>
+<h3 align="center" >Skills: Data Cleaning |Data Processing | Data Analytics | MS-Excel | Python | SQL</h3>
 
                   
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
